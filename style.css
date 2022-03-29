@@ -110,10 +110,6 @@
   color: white;
   margin-top: 30px;
 }
-#carouselExampleCaptions {
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
 .recent {
   display: flex;
   background-color: rgb(56, 187, 176);
@@ -279,7 +275,6 @@ aside {
 }
 .h4-aside:hover {
   color: black;
-  /* Nu-mi ia culoarea */
 }
 .title {
   display: flex;
