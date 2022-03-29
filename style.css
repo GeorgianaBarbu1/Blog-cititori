@@ -376,6 +376,9 @@ aside {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 12px;
 }
+.main-image {
+  margin: 30px 80px 30px;
+}
 
 .img-calendar {
   width: 23.4%;
